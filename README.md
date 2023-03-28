@@ -1,5 +1,8 @@
-# Hello, there! 👋 Welcome to my GitHub profile. I'm Austcool.
+# Hello, there! 👋
+- Welcome to my GitHub profile. I'm Austcool.
+### 📃 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Austcool-Walker&show_icons=true&include_all_commits=true&theme=radical)
+### 🧾 GitHub Info
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Austcool-Walker&layout=compact&langs_count=10&theme=radical)
 
 # Visitors
