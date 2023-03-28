@@ -6,7 +6,7 @@
 ![](https://count.getloli.com/get/@Austcool-Walker?theme=gelbooru)
 
 # 💻 Environment
-![Windows](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
+![Windows](https://img.shields.io/badge/Windows%2010-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu%2020%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![Deepin](https://img.shields.io/badge/Deepin%2020%2e06-2fb0da?style=flat-square&logo=deepin&logoColor=ffffff)
 ![MacOS](https://shields.io/badge/MacOS--9cf?logo=Apple&style=flat-square&logoColor=ffffff)
