@@ -1,16 +1,15 @@
 # Hi there 👋 this is Xiaoxindada
-![](https://github-readme-stats.vercel.app/api?username=xiaoxindada&show_icons=true&include_all_commits=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoxindada&layout=compact&langs_count=10&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=Austcool-Walker&show_icons=true&include_all_commits=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Austcool-Walker&layout=compact&langs_count=10&theme=radical)
 
 # Visitors
-![](https://count.getloli.com/get/@xiaoxindada?theme=gelbooru)
+![](https://count.getloli.com/get/@Austcool-Walker?theme=gelbooru)
 
 # 💻 Environment
 ![Windows](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu%2020%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![Deepin](https://img.shields.io/badge/Deepin%2020%2e06-2fb0da?style=flat-square&logo=deepin&logoColor=ffffff)
-
+![MacOS](https://shields.io/badge/MacOS--9cf?logo=Apple&style=flat-square&logoColor=ffffff)
 # 📱 Devices
-![Xiaomi 6](https://img.shields.io/badge/Xiaomi%206-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![OnePlus 7 Pro](https://img.shields.io/badge/OnePlus%207%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
-![OnePlus 5T](https://img.shields.io/badge/OnePlus%205T-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
+![Xiaomi Pad 5 Pro 5G](https://img.shields.io/badge/Xiaomi%206-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff)[https://img.shields.io/badge/Xiaomi%20Redmi%20Pad-fd4900?style=flat-square&logo=Xiaomi&logoColor=ffffff]
+![Samsung Galaxy Tab A](https://icecat.biz/en/p/samsung/sm-t380nzkaitv/galaxy+tab+a-tablets-8801643627089-sm-t380-65176481.html)[https://img.shields.io/badge/Samsung%20S21+%205G-fd4900?style=flat-square&logo=Samsung&logoColor=ffffff&color=blue]<br>
