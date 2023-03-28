@@ -11,5 +11,5 @@
 ![Deepin](https://img.shields.io/badge/Deepin%2020%2e06-2fb0da?style=flat-square&logo=deepin&logoColor=ffffff)
 ![MacOS](https://shields.io/badge/MacOS--9cf?logo=Apple&style=flat-square&logoColor=ffffff)
 # 📱 Devices
-[![Xiaomi Pad 5 Pro 5G](https://img.shields.io/badge/Xiaomi%206-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff)[https://img.shields.io/badge/Xiaomi%20Redmi%20Pad-fd4900?style=flat-square&logo=Xiaomi&logoColor=ffffff]
+[![Xiaomi Pad 5 Pro 5G](https://img.shields.io/badge/Xiaomi%206-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://MattTheTekie.surge.sh/redmi.html)<br>
 [![Samsung Galaxy Tab A](https://icecat.biz/en/p/samsung/sm-t380nzkaitv/galaxy+tab+a-tablets-8801643627089-sm-t380-65176481.html)[https://img.shields.io/badge/Samsung%20S21+%205G-fd4900?style=flat-square&logo=Samsung&logoColor=ffffff&color=blue]<br>
