@@ -1,6 +1,11 @@
 # Hello, there! 👋
 ![](https://github.com/MattTheTekie/xiaoxindada/raw/main/images/Screen_Shot_2020-08-06_at_4.50.04_PM.png)
 - Welcome to my GitHub profile. I'm Austcool.
+- Creator of iShitOS, Macubuntu, and a few Hackintosh distros.
+- Hackintosh scene member.
+- Android modder.
+- Linux nerd.
+
 ### 📃 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Austcool-Walker&show_icons=true&include_all_commits=true&theme=radical)
 ### 🧾 GitHub Info
