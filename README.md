@@ -3,10 +3,10 @@
 - Welcome to my GitHub profile. I'm Austcool.
 
 ## 🤔 What I'm doing
-- Creator of iShitOS, Macubuntu, and a few Hackintosh distros.
-- Hackintosh scene member.
-- Android modder.
-- Linux nerd.
+- Creator of iShitOS, Macubuntu, and a few Hackintosh distros. ⌨️
+- Hackintosh scene member. 🍎
+- Android modder. 📱
+- Linux nerd. 🖥️
 
 ![](https://github.com/Austcool-Walker/Austcool-Walker/raw/main/images/Screenshot_20221122-224136_Nova7.jpg)<br>
 ![](https://github.com/Austcool-Walker/Austcool-Walker/raw/main/images/1-1.png)<br>
