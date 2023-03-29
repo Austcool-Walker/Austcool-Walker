@@ -16,7 +16,7 @@
 ### 🧾 GitHub Info
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Austcool-Walker&layout=compact&langs_count=10&theme=radical)
 
-# Visitors
+# 🌏 Visitors
 ![](https://count.getloli.com/get/@Austcool-Walker?theme=gelbooru)
 
 # 💻 Environment
