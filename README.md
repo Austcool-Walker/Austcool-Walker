@@ -1,5 +1,5 @@
 # Hello, there! 👋
-![](https://github.com/Austcool-Walker/xiaoxindada/raw/main/images/Screen_Shot_2020-08-06_at_4.50.04_PM.png)
+![](https://github.com/Austcool-Walker/raw/main/images/Screen_Shot_2020-08-06_at_4.50.04_PM.png)
 - Welcome to my GitHub profile. I'm Austcool.
 - Creator of iShitOS, Macubuntu, and a few Hackintosh distros.
 - Hackintosh scene member.
