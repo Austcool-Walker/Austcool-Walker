@@ -6,6 +6,10 @@
 - Android modder.
 - Linux nerd.
 
+![]https://github.com/MattTheTekie/Austcool-Walker/raw/main/images/Screenshot_20221122-224136_Nova7.jpg<br>
+![]https://github.com/MattTheTekie/Austcool-Walker/raw/main/images/1-1.png<br>
+![]https://github.com/MattTheTekie/Austcool-Walker/raw/main/images/20230316_164545-ANIMATION-3.gif<br>
+
 ### 📃 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Austcool-Walker&show_icons=true&include_all_commits=true&theme=radical)
 ### 🧾 GitHub Info
