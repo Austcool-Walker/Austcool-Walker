@@ -13,7 +13,7 @@
 ![Windows](https://img.shields.io/badge/Windows%2010-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu%2020%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![Deepin](https://img.shields.io/badge/Deepin%2020%2e06-2fb0da?style=flat-square&logo=deepin&logoColor=ffffff)
-![MacOS](https://img.shields.io/badge/Deepin%2020%2e06-2fb0da?style=flat-square&message=macOS&color=grey&logo=apple&logoColor=FFFFFF&label=)
+![MacOS](https://img.shields.io/badge/MacOS-2fb0da?style=flat-square&message=macOS&color=grey&logo=apple&logoColor=FFFFFF&label=)
 # 📱 Devices
 [![Xiaomi Pad 5 Pro 5G](https://img.shields.io/badge/Xiaomi%20Pad%205%20Pro%205G-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://m.gsmarena.com/xiaomi_pad_5_pro-11043.php)<br>
 [![Samsung Galaxy Tab A](https://img.shields.io/badge/Samsung%20Galaxy%20Tab%20A-fd4900?style=flat-square&logo=Samsung&logoColor=ffffff&color=blue)](https://icecat.biz/en/p/samsung/sm-t380nzkaitv/galaxy+tab+a-tablets-8801643627089-sm-t380-65176481.html)<br>
