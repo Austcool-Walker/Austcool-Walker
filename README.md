@@ -13,8 +13,8 @@
 [![Windows Server 11](https://img.shields.io/badge/Windows%20Server%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)](https://archive.org/download/windows-insider-preview-server-v-next-en-us-22518-modded/Windows_InsiderPreview_Server_vNext_en-us_22518-modded.iso)<br>
 [![Ubuntu](https://img.shields.io/badge/Ubuntu%2020%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com)<br>
 [![Deepin](https://img.shields.io/badge/Deepin%2020%2e06-2fb0da?style=flat-square&logo=deepin&logoColor=ffffff)](https://www.deepin.org)<br>
-![MacOS](https://img.shields.io/badge/MacOS-2fb0da?style=flat-square&message=macOS&color=grey&logo=apple&logoColor=FFFFFF&label=)
-![LineageOS](https://img.shields.io/badge/LineageOS-2fb0da?style=flat-square&message=LineageOS&color=167C80&logo=LineageOS&logoColor=FFFFFF&label=)
+[![MacOS](https://img.shields.io/badge/MacOS-2fb0da?style=flat-square&message=macOS&color=grey&logo=apple&logoColor=FFFFFF&label=)](https://apple.com)<br>
+[![LineageOS](https://img.shields.io/badge/LineageOS-2fb0da?style=flat-square&message=LineageOS&color=167C80&logo=LineageOS&logoColor=FFFFFF&label=)](https://lineageos.org)<br>
 
 # 📱 Devices
 [![Xiaomi Pad 5 Pro 5G](https://img.shields.io/badge/Xiaomi%20Pad%205%20Pro%205G-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://m.gsmarena.com/xiaomi_pad_5_pro-11043.php)<br>
