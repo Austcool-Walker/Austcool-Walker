@@ -11,6 +11,9 @@
 ![](https://github.com/Austcool-Walker/Austcool-Walker/raw/main/images/Screenshot_20221122-224136_Nova7.jpg)<br>
 ![](https://github.com/Austcool-Walker/Austcool-Walker/raw/main/images/1-1.png)<br>
 ![](https://github.com/Austcool-Walker/Austcool-Walker/raw/main/images/20230316_164545-ANIMATION-3.gif)<br>
+![](https://github.com/Austcool-Walker/Austcool-Walker/raw/main/images/image.png)<br>
+![](https://github.com/Austcool-Walker/Austcool-Walker/raw/main/images/Screenshot_20230113-135043_Termux.jpg)<br>
+
 ![](https://github.com/Austcool-Walker/Austcool-Walker/raw/main/images/Screenshot_20230113-135043_Termux.jpg)<br>
 
 ### 📃 GitHub Stats
